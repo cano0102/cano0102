@@ -23,7 +23,8 @@
 
 <div align="center">
   
-![Calendario GitHub](https://ghchart.rshah.org/2F855A/cano0102 "Mis contribuciones en 2023")
+## 🐍 Mi Serpiente de Contribuciones 
+![Snake animation](https://github.com/cano0102/cano0102/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
