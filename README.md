@@ -25,7 +25,7 @@
 
 ## 🐍 Mi Serpiente de Contribuciones 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cano0102/cano0102/output/github-contribution-grid-snake.svg" alt="Serpiente de contribuciones">
+  ![Serpiente](https://raw.githubusercontent.com/cano0102/cano0102/main/assets/github-contribution-grid-snake.svg)
 </div>
 
 ---
