@@ -31,6 +31,12 @@ journey
     section Miércoles
       Refactor: 8: 100%
 
+    Contribuciones
+</div><div align="center">
+📅 Día más activo	🏆 Racha actual	🎯 Próxima meta
+Viernes (8 commits)	5 días 🔥	20 contribs/mes
+</div>
+
 🌍 Conéctate conmigo
 <p align="left"> <a href="https://linkedin.com/in/anderson-cano" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anderson-cano" height="30" width="40" /> </a> <a href="https://fb.com/anderson.cano" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anderson.cano" height="30" width="40" /> </a> <a href="https://instagram.com/21____ac" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="21____ac" height="30" width="40" /> </a> </p>
 🛠️ Lenguajes y Herramientas
