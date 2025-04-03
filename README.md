@@ -19,6 +19,8 @@
 
 [![Calendario de Contribuciones](https://github-readme-activity-graph.vercel.app/graph?username=cano0102&theme=github-compact&hide_border=true&area=true)](https://github.com/cano0102)
 
+[![Calendario de Contribuciones](https://ghchart.rshah.org/1DA1F2/cano0102)](https://github.com/cano0102)
+
 mermaid
 journey
     title Mi Progreso Semanal
