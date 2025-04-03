@@ -19,7 +19,19 @@
 
 [![Calendario de Contribuciones](https://github-readme-activity-graph.vercel.app/graph?username=cano0102&theme=github-compact&hide_border=true&area=true)](https://github.com/cano0102)
 
-[![Calendario de Contribuciones](https://ghchart.rshah.org/1DA1F2/cano0102)](https://github.com/cano0102)
+## 📊 Mis Contribuciones GitHub
+
+<div align="center">
+  
+![Calendario GitHub](https://ghchart.rshah.org/2F855A/cano0102 "Mis contribuciones en 2023")
+
+</div>
+
+### 📅 Estadísticas
+
++ Día más activo: Viernes (5 commits promedio)
+! Racha actual: 7 días consecutivos
+# Total este mes: 42 contribuciones
 
 mermaid
 journey
