@@ -18,4 +18,4 @@ pie
     "En progreso" : 25
     "Pendiente" : 10
 
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cano0102&theme=github_dark" width="100%" /> </p> ``` ### 🔄 **Dónde pegar**: 1. Ve a tu repositorio **`cano0102/cano0102`** (el especial de perfil) 2. Haz clic en el archivo **`README.md`** 3. Pulsa el ícono de lápiz (✏️) para editar 4. **Borra todo el contenido existente** 5. Pega el código copiado 6. Haz clic en **"Commit changes"** (botón verde)
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cano0102&theme=github_dark" width="100%" /> </p> 
