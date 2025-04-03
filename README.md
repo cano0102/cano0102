@@ -24,7 +24,8 @@
 <div align="center">
   
 ## 🐍 Mi Serpiente de Contribuciones 
-![Snake animation](https://github.com/cano0102/cano0102/blob/output/github-contribution-grid-snake.svg)
+
+![Serpiente](https://raw.githubusercontent.com/cano0102/cano0102/main/assets/github-contribution-grid-snake.svg)
 
 </div>
 
