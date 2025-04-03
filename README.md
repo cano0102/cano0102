@@ -29,6 +29,10 @@
 
 </div>
 
+with:
+  github_user_name: cano0102
+  color: "#FF0000"  # Rojo (usa código HEX)
+
 ### 📅 Estadísticas
 
 + Día más activo: Viernes (5 commits promedio)
