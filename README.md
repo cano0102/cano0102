@@ -23,17 +23,6 @@
 
 ---
 
-## 🐍 Mi Serpiente de Contribuciones 
-
-
-<div align="center">
-  
-
-
-![Serpiente](https://raw.githubusercontent.com/cano0102/cano0102/output/github-contribution-grid-snake.svg)
-
----
-
 ### 📅 Estadísticas
 
 journey
