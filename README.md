@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anderson Arboleda Cano </h1>
-<h3 align="center">Passionate about programming </h3>
+<h3 align="center">Passionate about programming  </h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=cano0102&label=Profile%20views&color=0e75b6&style=flat" alt="cano0102" /> 
@@ -13,7 +13,7 @@
 
 ---
 
-## 🌟 Mi Actividad Reciente
+## 🌟 Mi Actividad Reciente👌
 
 <div align="center">
 
