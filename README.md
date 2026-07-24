@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anderson Arboleda Cano</h1>
-<h3 align="center">💻 Backend Developer | Cybersecurity Enthusiast</h3>
+<h3 align="center">💻 Backend Developer | Web Developer | Cybersecurity Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cano0102&label=Profile%20views&color=0e75b6&style=flat" alt="cano0102" />
@@ -9,69 +9,148 @@
 
 ## 🚀 About Me
 
-- 🎓 Software Development Technician (SENA)  
-- 🔐 Focused on Cybersecurity & Backend Development  
-- 📚 Currently learning TypeScript, Node.js & Security Fundamentals  
-- 🎯 Goal: Become a cybersecurity professional by 2030  
+I'm a **Software Programming Technician** currently pursuing a **Technologist degree in Software Analysis and Development at SENA**.
+
+I have a strong foundation in **programming logic and web development**, with academic experience working with backend technologies, databases, authentication systems, and version control.
+
+🔹 Backend development with **Node.js and Express.js**
+🔹 Programming with **JavaScript, TypeScript and Python**
+🔹 Web development using **HTML and CSS**
+🔹 Relational databases with **MySQL and SQL Server**
+🔹 Authentication and security with **JWT and bcrypt**
+🔹 Version control with **Git and GitHub**
+🔹 Interested in **Cybersecurity and Secure Software Development**
+
+🎯 My goal is to continue growing as a software developer while specializing in **Cybersecurity and Backend Development**.
 
 ---
 
-## 💼 Projects
+## 🎓 Education
 
-### 🧠 MarketCode (2023 - 2024)
-- Led full project planning and development  
-- Designed and optimized database with MySQL  
-- Built full frontend using HTML, CSS & JavaScript  
-- Developed admin panel and improved UX/UI  
+### 🏫 SENA — Technologist in Software Analysis and Development
 
----
+**2025 - 2027**
 
-### 🎮 Game-Ether (2024 - Present)
-- Designed game architecture and logic from scratch  
-- Developed core mechanics using Vanilla JavaScript  
-- Built UI focused on user experience  
-- Migrating project to TypeScript  
-- Integrating with Electron.js + Node.js  
+Currently completing my training as a **Technologist in Software Analysis and Development**.
+
+### 🏫 SENA — Software Programming Technician
+
+**2023 - 2024**
+
+Technical training focused on programming fundamentals and software development.
 
 ---
 
-### 📧 Cli-SendBox (2025 - Present)
-- Desktop app for sending emails (Electron.js)  
-- Backend logic with Node.js & Nodemailer  
-- Data validation using Validator  
-- Secure credential management with `.env`  
-- Interactive UI with HTML, CSS & Bootstrap  
+## 💼 Featured Projects
+
+### 🧠 MarketCode
+
+**2023 - 2024**
+
+Final project developed during my technical training at SENA.
+
+A web platform designed to connect **programmers with potential clients and employers**, allowing developers to offer their services and users to find professionals according to their needs.
+
+**Technologies:**
+
+* PHP
+* JavaScript
+* HTML
+* CSS
 
 ---
 
-## 🛠️ Languages & Tools
+### 🎮 Etherium - Game
+
+**2024**
+
+Team project and **2nd place winner at IngeniaTech 2024**.
+
+A turn-based combat game featuring two teams of three characters, each with unique abilities and mechanics.
+
+**Technologies:**
+
+* JavaScript
+* HTML
+* CSS
+
+---
+
+### 🔐 SecureAuth Lab
+
+A web project focused on **cybersecurity and secure authentication**, created to implement and understand real-world user protection mechanisms.
+
+The project includes:
+
+* 🔑 User registration and login
+* 🔒 Secure password hashing
+* 🎟️ JWT token generation
+* 🛡️ Private route protection using middleware
+* 🔐 Authentication and authorization concepts
+
+**Technologies:**
+
+* React
+* Node.js
+* Express.js
+* MySQL
+* JWT
+* bcrypt
+* Tailwind CSS
+* GitHub
+
+---
+
+## 🛠️ Languages & Technologies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
 </p>
 
 ---
 
-## 🌍 Connect with Me
+## 🔐 Cybersecurity Interests
 
-<p align="center">
-  <a href="https://linkedin.com/in/anderson-cano" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="https://fb.com/anderson.cano" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/21______ac" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-  </a>
-</p>
+I'm particularly interested in **Cybersecurity and Secure Software Development**.
+
+My current interests include:
+
+* 🔑 Authentication and Authorization
+* 🎟️ JWT and secure session management
+* 🔒 Password security and hashing
+* 🛡️ API security
+* 🌐 Web application security
+* 🔍 Secure backend development
+* 🧪 Security testing and vulnerability analysis
+
+---
+
+## 💡 Soft Skills
+
+* 🤝 Effective Communication
+* ⚡ Fast Learning
+* 🔄 Adaptability
+* 👥 Teamwork
+* 🎯 Leadership
+* 💡 Creativity
+
+---
+
+## 🌍 Languages
+
+* 🇪🇸 Spanish: Native
+* 🇬🇧 English: Basic (A2)
 
 ---
 
@@ -96,21 +175,21 @@
 
 ---
 
-## 🌎 Languages
-
-- 🇪🇸 Spanish: Native  
-- 🇬🇧 English: B1 Level  
-
----
-
-## 🎯 2026 Goals
-
-- ✅ 65% Completed  
-- 🔄 25% In Progress  
-- ⏳ 10% Pending  
-
----
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cano0102&theme=github_dark" width="100%" />
+  <a href="https://linkedin.com/in/anderson-cano" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
+  <a href="https://fb.com/anderson.cano" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
+  </a>
+  <a href="https://instagram.com/21______ac" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+  </a>
 </p>
+
+---
+
+<h3 align="center">🚀 Always learning. Always building. Always improving.</h3>
+
