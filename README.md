@@ -27,13 +27,13 @@ I have a strong foundation in **programming logic and web development**, with ac
 
 ##  Education
 
-### 🏫 SENA — Technologist in Software Analysis and Development
+###  SENA — Technologist in Software Analysis and Development
 
 **2025 - 2027**
 
 Currently completing my training as a **Technologist in Software Analysis and Development**.
 
-### 🏫 SENA — Software Programming Technician
+###  SENA — Software Programming Technician
 
 **2023 - 2024**
 
