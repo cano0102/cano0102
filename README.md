@@ -15,7 +15,7 @@ I have a strong foundation in **programming logic and web development**, with ac
 
 🔹 Backend development with **Node.js and Express.js**
 🔹 Programming with **JavaScript, TypeScript and Python**
-🔹 Web development using **HTML and CSS**
+🔹 Web development using **React** 
 🔹 Relational databases with **MySQL and SQL Server**
 🔹 Authentication and security with **JWT and bcrypt**
 🔹 Version control with **Git and GitHub**
