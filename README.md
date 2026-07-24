@@ -157,11 +157,6 @@ My current interests include:
 ##  GitHub Stats
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=cano0102&show_icons=true&theme=nightowl&count_private=true" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=cano0102&show_icons=true&theme=nightowl&layout=compact" />
-</p>
-
-<p align="center">
   <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=cano0102&theme=nightowl" />
 </p>
 
@@ -191,5 +186,5 @@ My current interests include:
 
 ---
 
-<h3 align="center">🚀 Always learning. Always building. Always improving.</h3>
+<h3 align="center"> Always learning. Always building. Always improving.</h3>
 
