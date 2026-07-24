@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anderson Arboleda Cano</h1>
-<h3 align="center">💻 Backend Developer | Web Developer | Cybersecurity Enthusiast</h3>
+<h1 align="center">Hi , I'm Anderson Arboleda Cano</h1>
+<h3 align="center"> Backend Developer | Web Developer | Cybersecurity Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cano0102&label=Profile%20views&color=0e75b6&style=flat" alt="cano0102" />
@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a **Software Programming Technician** currently pursuing a **Technologist degree in Software Analysis and Development at SENA**.
 
@@ -21,11 +21,11 @@ I have a strong foundation in **programming logic and web development**, with ac
 🔹 Version control with **Git and GitHub**
 🔹 Interested in **Cybersecurity and Secure Software Development**
 
-🎯 My goal is to continue growing as a software developer while specializing in **Cybersecurity and Backend Development**.
+ My goal is to continue growing as a software developer while specializing in **Cybersecurity and Backend Development**.
 
 ---
 
-## 🎓 Education
+##  Education
 
 ### 🏫 SENA — Technologist in Software Analysis and Development
 
@@ -41,9 +41,9 @@ Technical training focused on programming fundamentals and software development.
 
 ---
 
-## 💼 Featured Projects
+##  Featured Projects
 
-### 🧠 MarketCode
+###  MarketCode
 
 **2023 - 2024**
 
@@ -60,7 +60,7 @@ A web platform designed to connect **programmers with potential clients and empl
 
 ---
 
-### 🎮 Etherium - Game
+###  Etherium - Game
 
 **2024**
 
@@ -76,17 +76,17 @@ A turn-based combat game featuring two teams of three characters, each with uniq
 
 ---
 
-### 🔐 SecureAuth Lab
+###  SecureAuth Lab
 
 A web project focused on **cybersecurity and secure authentication**, created to implement and understand real-world user protection mechanisms.
 
 The project includes:
 
-* 🔑 User registration and login
-* 🔒 Secure password hashing
-* 🎟️ JWT token generation
-* 🛡️ Private route protection using middleware
-* 🔐 Authentication and authorization concepts
+*  User registration and login
+*  Secure password hashing
+*  JWT token generation
+*  Private route protection using middleware
+*  Authentication and authorization concepts
 
 **Technologies:**
 
@@ -101,7 +101,7 @@ The project includes:
 
 ---
 
-## 🛠️ Languages & Technologies
+##  Languages & Technologies
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
@@ -120,41 +120,41 @@ The project includes:
 
 ---
 
-## 🔐 Cybersecurity Interests
+##  Cybersecurity Interests
 
 I'm particularly interested in **Cybersecurity and Secure Software Development**.
 
 My current interests include:
 
-* 🔑 Authentication and Authorization
-* 🎟️ JWT and secure session management
-* 🔒 Password security and hashing
-* 🛡️ API security
-* 🌐 Web application security
-* 🔍 Secure backend development
-* 🧪 Security testing and vulnerability analysis
+*  Authentication and Authorization
+*  JWT and secure session management
+*  Password security and hashing
+*  API security
+*  Web application security
+*  Secure backend development
+*  Security testing and vulnerability analysis
 
 ---
 
-## 💡 Soft Skills
+##  Soft Skills
 
-* 🤝 Effective Communication
-* ⚡ Fast Learning
-* 🔄 Adaptability
-* 👥 Teamwork
-* 🎯 Leadership
-* 💡 Creativity
+*  Effective Communication
+*  Fast Learning
+*  Adaptability
+*  Teamwork
+*  Leadership
+*  Creativity
 
 ---
 
-## 🌍 Languages
+##  Languages
 
 * 🇪🇸 Spanish: Native
 * 🇬🇧 English: Basic (A2)
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=cano0102&show_icons=true&theme=nightowl&count_private=true" />
@@ -167,7 +167,7 @@ My current interests include:
 
 ---
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cano0102&theme=github-compact&hide_border=true&area=true" />
@@ -175,7 +175,7 @@ My current interests include:
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/anderson-cano" target="_blank">
